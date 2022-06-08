@@ -1,2 +1,2 @@
 # PYTHON-CODE-CHALLENGES
-Short challenges solved with Python on Jupyter-notebook 
+Short coding challenges solved with Python on Jupyter-notebook 
